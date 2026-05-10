@@ -1,16 +1,14 @@
-## Hi there 👋
+# AI-Assisted Product Prototyping Portfolio
 
-<!--
-**Chonyoomin/Chonyoomin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This GitHub showcases product concepts and prototypes built around workflow problems, user needs, and practical software ideas.
 
-Here are some ideas to get you started:
+I use AI-assisted development to turn ideas into working prototypes, with a focus on:
+- identifying business problems
+- defining user and operational needs
+- shaping product direction
+- structuring feature requirements
+- validating practical use cases
+- translating ideas into prototypes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+_Updated: May 9, 2026_
