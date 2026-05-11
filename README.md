@@ -1,4 +1,4 @@
-# AI-Assisted Product Prototyping Portfolio
+# AI-Assisted Product Portfolio
 
 This GitHub showcases product concepts and prototypes built around workflow problems, user needs, and practical software ideas.
 
@@ -11,4 +11,4 @@ I use AI-assisted development to turn ideas into working prototypes, with a focu
 - translating ideas into prototypes
 
 
-_Updated: May 9, 2026_
+_Updated: May 11, 2026_
