@@ -1,14 +1,14 @@
-# AI-Assisted Product Portfolio
+# AI-Assisted Personal Tooling Portfolio
 
-This GitHub showcases product concepts and prototypes built around workflow problems, user needs, and practical software ideas.
+This GitHub is where I document AI-powered tools and prototypes I build for my own personal use.
 
-I use AI-assisted development to turn ideas into working prototypes, with a focus on:
-- identifying business problems
-- defining user and operational needs
-- shaping product direction
-- structuring feature requirements
-- validating practical use cases
-- translating ideas into prototypes
+Most of these projects come from tasks, workflows, or problems I personally want to make easier, faster, or more organized.
 
+I use AI-assisted development to turn these ideas into working prototypes, with a focus on:
+- building tools I would actually use
+- reducing repetitive or inefficient tasks
+- improving personal workflows
+- testing practical AI use cases
+- turning small problems into functional software
 
-_Updated: May 11, 2026_
+_Updated: May 24, 2026_
