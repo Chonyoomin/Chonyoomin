@@ -1,14 +1,14 @@
-# AI-Assisted Personal Tooling Portfolio
+# AI-Assisted Portfolio
 
-This GitHub is where I document AI-powered tools and prototypes I build for my own personal use.
+This GitHub is where I experiment with AI.
 
-Most of these projects come from tasks, workflows, or problems I personally want to make easier, faster, or more organized.
+Some projects I have attempted:
+- Creating a RAG system for work documents
+- Creating an automated handoff system between two AI coding agents
+- Redesigning website UI/UX with AI skills and connectors
 
-I use AI-assisted development to turn these ideas into working prototypes, with a focus on:
-- Building tools I would actually use
-- Reducing repetitive or inefficient tasks
-- Improving personal workflows
-- Testing practical AI use cases
-- Turning small problems into functional software
+Other fun things:
+- Game creation
+- Vibe coding widget
 
-_Updated: May 24, 2026_
+_Updated: Sep 14, 2026_
